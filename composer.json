@@ -14,10 +14,10 @@
     },
 	"autoload": {
         "psr-4": {
-            "App\\Kernel\\": "src/Kernel/"
+            "App\\Helper\\": "src/Helper/"
         },
         "files": [
-          "src/Kernel/Support/helpers.php"
+          "src/Helper/Support/helpers.php"
         ]
     },
     "minimum-stability": "stable"
